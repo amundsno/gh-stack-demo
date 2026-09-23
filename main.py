@@ -1,2 +1,2 @@
 def hello(name: str) -> str:
-    return "Hello, " + name + "!"
+    return f"Hello, {name}!"
